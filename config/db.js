@@ -1,6 +1,6 @@
 module.exports = {
     mysql : {
-        host: 'localhost',
+        host: 'www.haitaoway.cn',
         user: 'haitaowa_haitao',
         password: 'hunanyht287',
         database: 'haitaowa_db',
