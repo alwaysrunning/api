@@ -1,9 +1,9 @@
 module.exports = {
     mysql : {
-        host: 'www.haitaoway.cn',
-        user: 'haitaowa_haitao',
+        host: '96.44.169.189',
+        user: 'haitaowa_test',
         password: 'hunanyht287',
-        database: 'haitaowa_db',
+        database: 'haitaowa_test',
         port: 3306
     }
 }
