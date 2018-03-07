@@ -1,3 +1,5 @@
+// 数据库配置
+
 module.exports = {
     pro : {
         host: '96.44.169.189',
