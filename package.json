@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "node ./bin/www --dev",
-    "start": "node ./bin/www --pro"
+    "start": "node ./bin/www --pro",
+    "db":"node ./db/dbInit.js"
   },
   "keywords": [
     "test"

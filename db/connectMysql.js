@@ -4,7 +4,7 @@ var sql;
 var arguments = process.argv.splice(2);
 
 var args = arguments[0]
-
+console.log(args,333)
 if(args && args.indexOf('pro')>-1){
     process.env.NODE_ENV = 'production'
     sql = mysql.createConnection(db.prd)
